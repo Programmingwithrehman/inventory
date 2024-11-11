@@ -1,4 +1,5 @@
 # inventory
+<<<<<<< HEAD
 
 A new Flutter project.
 
