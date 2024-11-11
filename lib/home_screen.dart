@@ -25,7 +25,7 @@ class _HomeScreenState extends State<HomeScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Inventory System'),
+        title: const Text('Inventory System', style: TextStyle(color: Colors.white),),
         backgroundColor: Colors.blue,
       ),
       body: Center(
